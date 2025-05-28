@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mico Banzuela!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Backend+Web+Developer;Machine+Learning+Enthusiast;Image+Processing+Expert;Python+%26+TypeScript+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Backend+Web+Developer;Machine+Learning+Enthusiast;Image+Processing+Enthusiast;Python+%26+TypeScript+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -122,17 +122,6 @@ mindmap
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bia495&repo=portfolio-website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2196F3&text_color=ffffff)](https://github.com/Bia495/portfolio-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bia495&repo=ml-image-classifier&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2196F3&text_color=ffffff)](https://github.com/Bia495/ml-image-classifier)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -151,11 +140,6 @@ mindmap
 - 🌟 Focus: Full-stack development with ML integration
 - 🚀 Goal: Contributing to open-source ML projects
 - 💡 Learning: Advanced computer vision techniques
-
-### 📚 Currently Reading
-- "Hands-On Machine Learning" by Aurélien Géron
-- "Clean Code" by Robert C. Martin
-- "You Don't Know JS" series
 
 </details>
 
@@ -183,17 +167,16 @@ Favorite VS Code Extensions:
 <summary>🎨 Fun Projects & Experiments</summary>
 
 ### 🤖 AI/ML Projects
-- Image classification with custom datasets
-- Real-time object detection systems
-- Sentiment analysis for social media
+- TalkTwah: your AI voice coaching companion! 
+- Pestifier: An AI-Image processing pest detection using CNN algorithm
 
 ### 🌐 Web Applications
-- Interactive data visualization dashboards
-- Progressive Web Apps with offline capabilities
-- Real-time chat applications
+- LoveBird Chatterbox
+- Business Management System (Collaborator)
+- TalkTwah: Data Gathering Website (Collaborator)
 
 ### 🔬 Research Interests
-- Computer Vision in healthcare
+- Computer Vision in Agriculture
 - Natural Language Processing
 - Edge AI deployment
 
@@ -201,13 +184,26 @@ Favorite VS Code Extensions:
 
 ---
 
-## 🎵 Currently Vibing To
-
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-username&count=1&unique=true" alt="Spotify Recently Played" />
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/🎵_Now_Playing-Never_Gonna_Give_You_Up-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Now Playing" />
+  </a>
 </div>
 
----
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/Artist-Rick_Astley-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Artist" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/Album-Whenever_You_Need_Somebody-FF6B6B?style=for-the-badge&logo=music&logoColor=white" alt="Album" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>🎤 <i>Click above to get rickrolled! You know the rules, and so do I! 😄</i></sub>
+</div>
+
+--
 
 ## 🤝 Let's Connect!
 
@@ -221,17 +217,12 @@ Favorite VS Code Extensions:
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
-
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Bia495/Bia495/output/github-snake.svg)
-
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-<!-- If the above doesn't work, here's an alternative -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bia495/Bia495/output/github-snake-dark.svg" alt="Snake Animation Dark" />
+  <sub>🎮 <i>Snake eating contributions! Once your GitHub Action runs, this will show YOUR contributions being eaten!</i></sub>
 </div>
 
 ---
@@ -279,7 +270,7 @@ Other        ████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/Bia495">Bia495</a> - Building the future, one line of code at a time! 🚀</i>
+  <i>⭐️ From <a href="https://github.com/Bia495">Bia495</a> - If you can't debug it, delete and start over again</i>
 </div>
 
 <div align="center">
