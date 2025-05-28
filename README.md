@@ -1,4 +1,6 @@
-# 👋 Hello, I'm Mico Banzuela!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hello,%20I'm%20Mico%20Banzuela!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20and%20Web%20Developer&descAlignY=51&descAlign=62" alt="Header" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Backend+Web+Developer;Machine+Learning+Enthusiast;Image+Processing+Enthusiast;Python+%26+TypeScript+Developer" alt="Typing SVG" />
