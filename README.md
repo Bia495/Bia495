@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mico Banzuela!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Image+Processing+Expert;Python+%26+TypeScript+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Backend+Web+Developer;Machine+Learning+Enthusiast;Image+Processing+Expert;Python+%26+TypeScript+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -31,10 +31,10 @@ const mico: Developer = {
     specialties: ["Machine Learning", "Computer Vision", "Image Processing"]
   },
 
-  currentlyLearning: ["Advanced ML Algorithms", "Data Analysis", "Other Tech Stacks"],
+  currentlyLearning: ["Advanced ML Algorithms", "Cloud Computing", "DevOps"],
   askMeAbout: ["Web Development", "Python", "Machine Learning", "Image Processing"],
 
-  funFact: "I love deleting my progress just to start a new one(Just kiddin)! 🧩"
+  funFact: "I love turning complex problems into simple, elegant solutions! 🧩"
 };
 ```
 
@@ -224,15 +224,22 @@ Favorite VS Code Extensions:
 ## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bia495/Bia495/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bia495/Bia495/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bia495/Bia495/output/github-snake.svg">
-  </picture>
+
+![Snake animation](https://raw.githubusercontent.com/Bia495/Bia495/output/github-snake.svg)
+
 </div>
 
+<!-- If the above doesn't work, here's an alternative -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bia495/Bia495/output/ocean.gif" alt="Ocean Snake Animation" width="400" />
+  <img src="https://raw.githubusercontent.com/Bia495/Bia495/output/github-snake-dark.svg" alt="Snake Animation Dark" />
+</div>
+
+---
+
+## 🎮 Interactive Contribution Heatmap
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/2196F3/Bia495" alt="Bia495's Github chart" />
 </div>
 
 ---
