@@ -36,7 +36,6 @@ const mico: Developer = {
   currentlyLearning: ["Advanced ML Algorithms", "Cloud Computing", "DevOps"],
   askMeAbout: ["Web Development", "Python", "Machine Learning", "Image Processing"],
 
-  funFact: "I love turning complex problems into simple, elegant solutions! 🧩"
 };
 ```
 
